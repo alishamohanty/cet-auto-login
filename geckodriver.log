@@ -1,0 +1,32 @@
+1533545054066	geckodriver	INFO	geckodriver 0.18.0
+1533545054087	geckodriver	INFO	Listening on 127.0.0.1:60935
+1533545054579	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1533545058643	Marionette	INFO	Listening on port 36525
+1533545058720	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 4231, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-x_t4I3/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533545158303	geckodriver	INFO	geckodriver 0.18.0
+1533545158306	geckodriver	INFO	Listening on 127.0.0.1:49387
+1533545159527	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1533545162526	Marionette	INFO	Listening on port 41509
+1533545162561	Marionette	WARN	TLS certificate errors will be ignored for this session
+1533545202393	geckodriver	INFO	geckodriver 0.18.0
+1533545202396	geckodriver	INFO	Listening on 127.0.0.1:43369
+1533545203539	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1533545206121	Marionette	INFO	Listening on port 38677
+1533545206155	Marionette	WARN	TLS certificate errors will be ignored for this session
+1533545360149	geckodriver	INFO	geckodriver 0.18.0
+1533545360153	geckodriver	INFO	Listening on 127.0.0.1:59037
+1533545361372	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1533545364389	Marionette	INFO	Listening on port 41419
+1533545364495	Marionette	WARN	TLS certificate errors will be ignored for this session
+1533545427904	geckodriver	INFO	geckodriver 0.18.0
+1533545427916	geckodriver	INFO	Listening on 127.0.0.1:60475
+1533545429125	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1533545432391	Marionette	INFO	Listening on port 44539
+1533545432446	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 4944, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-x_t4I3/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 5157, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-x_t4I3/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[Parent 4481, Gecko_IOThread] WARNING: pipe error (62): Connection reset by peer: file /build/firefox-x_t4I3/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 4685, Gecko_IOThread] WARNING: pipe error (74): Connection reset by peer: file /build/firefox-x_t4I3/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
