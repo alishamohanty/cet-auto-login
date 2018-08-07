@@ -5,7 +5,6 @@ from selenium.webdriver.common.by import By
 import time
 
 driver = webdriver.PhantomJS() # or add to your PATH
-driver.set_window_size(1024, 768) # optional
 driver.get('http://172.16.0.1:8090')
 uname = '<type-your-user-name-here>'
 password = '<type-your-password-here>'
@@ -24,3 +23,4 @@ user.send_keys(password)
 el = driver.find_element_by_id('logincaption')
 el.click()
 print("Login done")
+driver.close()
